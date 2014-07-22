@@ -1,0 +1,5 @@
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTheMostPopularAuthor\bin\FindTheMostPopularAuthor.dll.config
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTheMostPopularAuthor\bin\FindTheMostPopularAuthor.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTheMostPopularAuthor\bin\FindTheMostPopularAuthor.pdb
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTheMostPopularAuthor\obj\Debug\FindTheMostPopularAuthor.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTheMostPopularAuthor\obj\Debug\FindTheMostPopularAuthor.pdb

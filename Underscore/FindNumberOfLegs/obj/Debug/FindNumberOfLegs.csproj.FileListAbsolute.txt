@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindNumberOfLegs\bin\FindNumberOfLegs.dll.config
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindNumberOfLegs\bin\FindNumberOfLegs.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindNumberOfLegs\bin\FindNumberOfLegs.pdb
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindNumberOfLegs\obj\Debug\FindNumberOfLegs.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindNumberOfLegs\obj\Debug\FindNumberOfLegs.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindNumberOfLegs\obj\Debug\FindNumberOfLegs.pdb

@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FilterStudentsByAge\bin\FilterStudentsByAge.dll.config
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FilterStudentsByAge\bin\FilterStudentsByAge.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FilterStudentsByAge\bin\FilterStudentsByAge.pdb
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FilterStudentsByAge\obj\Debug\FilterStudentsByAge.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FilterStudentsByAge\obj\Debug\FilterStudentsByAge.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FilterStudentsByAge\obj\Debug\FilterStudentsByAge.pdb

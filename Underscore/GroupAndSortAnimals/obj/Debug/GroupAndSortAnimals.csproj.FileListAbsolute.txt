@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\GroupAndSortAnimals\bin\GroupAndSortAnimals.dll.config
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\GroupAndSortAnimals\bin\GroupAndSortAnimals.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\GroupAndSortAnimals\bin\GroupAndSortAnimals.pdb
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\GroupAndSortAnimals\obj\Debug\GroupAndSortAnimals.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\GroupAndSortAnimals\obj\Debug\GroupAndSortAnimals.pdb
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\GroupAndSortAnimals\obj\Debug\GroupAndSortAnimals.csprojResolveAssemblyReference.cache

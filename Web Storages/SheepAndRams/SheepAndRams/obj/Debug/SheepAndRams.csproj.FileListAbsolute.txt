@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Applications\Web Storages\SheepAndRams\SheepAndRams\bin\SheepAndRams.dll.config
+C:\TelerikAcademy\JavaScript Applications\Web Storages\SheepAndRams\SheepAndRams\bin\SheepAndRams.dll
+C:\TelerikAcademy\JavaScript Applications\Web Storages\SheepAndRams\SheepAndRams\bin\SheepAndRams.pdb
+C:\TelerikAcademy\JavaScript Applications\Web Storages\SheepAndRams\SheepAndRams\obj\Debug\SheepAndRams.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Applications\Web Storages\SheepAndRams\SheepAndRams\obj\Debug\SheepAndRams.dll
+C:\TelerikAcademy\JavaScript Applications\Web Storages\SheepAndRams\SheepAndRams\obj\Debug\SheepAndRams.pdb

@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTopStudent\bin\FindTopStudent.dll.config
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTopStudent\bin\FindTopStudent.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTopStudent\bin\FindTopStudent.pdb
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTopStudent\obj\Debug\FindTopStudent.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTopStudent\obj\Debug\FindTopStudent.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\FindTopStudent\obj\Debug\FindTopStudent.pdb

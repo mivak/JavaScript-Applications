@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\SortStudentsByName\bin\SortStudentsByName.dll.config
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\SortStudentsByName\bin\SortStudentsByName.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\SortStudentsByName\bin\SortStudentsByName.pdb
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\SortStudentsByName\obj\Debug\SortStudentsByName.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\SortStudentsByName\obj\Debug\SortStudentsByName.dll
+C:\TelerikAcademy\JavaScript Applications\UnderscoreJS\Underscore\SortStudentsByName\obj\Debug\SortStudentsByName.pdb
